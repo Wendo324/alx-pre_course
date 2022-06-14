@@ -1,3 +1,1 @@
-My first readme
-This is an ALX project on initializing git and the terminal
-yes
+THIS PROJECT IS A STARTER INTO USING GITHUB AND ITS CORELATION WITH THE TERMINAL
