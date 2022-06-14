@@ -1,2 +1,2 @@
 My first readme
-THis is an ALX project on initializing git
+This is an ALX project on initializing git and the terminal
